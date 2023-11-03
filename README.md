@@ -42,6 +42,7 @@ This project has provided valuable experience in web development, JavaScript pro
 # Links:
 
 Deployed page:
-
+https://blackclover221.github.io/quiz-with-code-wiz/
 
 Repo Link: 
+https://github.com/blackclover221/quiz-with-code-wiz
